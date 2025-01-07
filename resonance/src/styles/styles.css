@@ -1,0 +1,24 @@
+@import "swiper/css";
+@import "../../public/assets/css/styles.css";
+@import "jarallax/dist/jarallax.min.css";
+@import "swiper/css/effect-fade";
+@import "react-modal-video/css/modal-video.css";
+@import "photoswipe/dist/photoswipe.css";
+
+@import "tippy.js/dist/tippy.css";
+
+/* harsh */
+.services-tabs > li{
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+
+.svg-shape{
+    display: none;
+}
+
+.main-nav{
+    background: #f1f1f1 !important;
+}
+
+/* harsh */
